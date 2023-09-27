@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log
+lerna-debug.log*
+
+# You'll thank me later
+node_modules/
+
+# Because of course you're using VS Code
+.vscode/
+
+# Because of course you're using idea IDE
+.idea/
+
+
+# TSC output
+dist/
+build/
+
+
+
+
